@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CUIEET34//Congreso//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:cuieet34-20260623@cuieet34.local
+DTSTAMP:20261008T120000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+SUMMARY:CUIEET34 - Congreso Universitario de Innovación Educativa
+LOCATION:ETSII de Béjar - USAL\, Avenida Fernando Ballesteros 2\, Béjar
+DESCRIPTION:Contacto: dir.etsiib@usal.es. Horarios pendientes de confirmar.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
